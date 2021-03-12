@@ -1,0 +1,10 @@
+module.exports = {
+  TOKEN: "<Your token>",
+  DBCONNECTION:
+    "<username> + <password> MongoDB connection",
+  DEFAULTSETTINGS: {
+    prefix: "<Your commands prefix>",
+    logChannel: "<Your log channel>",
+    welcomeMessage: "Welcome {{user}}"
+  }
+};
